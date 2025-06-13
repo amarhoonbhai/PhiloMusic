@@ -1,0 +1,3 @@
+telethon
+apscheduler
+python-telegram-bot==20.0
